@@ -4,9 +4,17 @@ body {
 }
 P {
   color:rgb(59, 71, 241)
+  margin: 0px;
 }
 
 
 .pratas {
    font-style: italic;
+
+
+header {
+   border-bottom: solid 2px rgb(42, 122, 228);
+   padding: 20px;
+   font-size: 32px;
+   color: darkcyan;
 }
